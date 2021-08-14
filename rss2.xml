@@ -9,7 +9,7 @@
     <atom:link href="http://example.com/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>我歌月徘徊，我舞影零乱</description>
-    <pubDate>Wed, 11 Aug 2021 07:24:02 GMT</pubDate>
+    <pubDate>Sat, 14 Aug 2021 07:15:26 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
@@ -20,13 +20,12 @@
       
         
         
-      <description>&lt;p&gt;Hello,everyone. I’m Ciro,living in Nanjing. I’m a student in NJUT. Glad to see you! Have fun!&lt;/p&gt;
-</description>
+      <description>&lt;p&gt;Hello, everyone. I’m Ciro, living in Nanjing. I’m a student in NJUT. Glad to see you!&lt;br&gt;I set up the blog to record my daily life, expre</description>
         
       
       
       
-      <content:encoded><![CDATA[<p>Hello,everyone. I’m Ciro,living in Nanjing. I’m a student in NJUT. Glad to see you! Have fun!</p>]]></content:encoded>
+      <content:encoded><![CDATA[<p>Hello, everyone. I’m Ciro, living in Nanjing. I’m a student in NJUT. Glad to see you!<br>I set up the blog to record my daily life, express my thoughts and feelings, and urge myself to summarize what I have learned.<br>I sincerely hope to get your message on the message board.</p>]]></content:encoded>
       
       
       
